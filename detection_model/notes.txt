@@ -1,0 +1,4 @@
+download and use:
+
+frozen_east_text_detection.pb
+
